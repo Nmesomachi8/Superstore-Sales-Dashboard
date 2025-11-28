@@ -1,6 +1,6 @@
 # Superstore Sales Insights Dashboard (Excel)
 
-Every business loves rising sales — until they realize profits aren’t following.
+Every business loves rising sales, until they realize profits aren’t following.
 
 This dashboard breaks down **why growth doesn’t always equal profitability** and uncovers the levers executives can pull to fix it. Built in Excel using pivot tables, DAX-style measures, slicers, and a clean layout designed for quick decision-making.
 
@@ -83,22 +83,13 @@ Standard Class orders bring volume but squeeze profit.
 Introduce shipping-based pricing or minimum order requirements.
 
 
-📁 Project Structure
-ODINIA_Superstore_Dashboard/
+## 📁 Project Structure
+Superstore_Dashboard/
 │
 ├── Superstore_Dashboard.xlsx               → Main Excel file with both dashboards
 ├── dashboard_main.png                      → Main dashboard screenshot
 ├── dashboard_details.png                   → Supporting dashboard screenshot
 └── README.md                               → This file
-
-
-## 📥 How to View the Dashboard
-Download the file here:
-
-👉 **Superstore_Dashboard.xlsx**
-
-Open in Excel (2016+ recommended).  
-Use the slicers to explore Region, Segment, Category, and Year.
 
 
 ## 🧠 Skills Demonstrated
