@@ -107,7 +107,7 @@ Superstore_Dashboard/
 **Odinihu Esther Nmesomachukwu**  
 Data Analyst | Business Intelligence | Dashboard Design  
 GitHub: https://github.com/Nmesomachi8 
-LinkedIn: *add your link here*
+LinkedIn: https://www.linkedin.com/in/esther-odinihu-254719371
 
 I build data solutions that answer real business questions and drive real decisions.
 
